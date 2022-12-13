@@ -10,7 +10,7 @@ public class Main {
     }
 
         public static class product {
-            public int product(int x, int y) {
+           public int product(int x, int y) {
 
                 return x * y;
             }
@@ -20,7 +20,7 @@ public class Main {
                 return x * y * z;
             }
 
-            public double product(double x, double y) {
+            public double  product(double x, double y) {
 
                 return x * y;
             }
