@@ -18,8 +18,8 @@ public class Main {
         }
     public static void main(String[] args) {
         product p=new product();
-        int ans1=p.product(1,2);
-        int ans2=p.product(1,2,3);
+        int ans1=p.product(10,25);
+        int ans2=p.product(13,22,31);
         double ans3= p.product(1.3,5.6);
         System.out.println(ans1+" "+ans2+" "+ans3);
     }
